@@ -115,11 +115,6 @@ A basic task management application where users can add, view, and delete tasks.
 - **Backend:** Run `python manage.py test` to execute the backend tests.
 - **Frontend:** Write and run tests using the chosen testing framework
 
-For running the sample test cases:- 
- ```bash
-    python manage.py test
-    ```
-
 ### License
 
 This project is licensed under the MIT License.
